@@ -8,8 +8,7 @@ package model;
  * واجهة برمجية تحدد السلوك العام لكافة أنواع التحديات التعليمية.
  * تضمن هذه الواجهة أن أي نوع تحدي جديد سيحتوي على الدوال الأساسية المطلوبة.
  */
-public interface MultimediaChallenge
-{
+public interface MultimediaChallenge {
     
     // دالة مسؤولة عن بدء التحدي وعرض الوسائط الخاصة به
     void startChallenge();
